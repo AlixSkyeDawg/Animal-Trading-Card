@@ -12,7 +12,7 @@ body {
  }
 
 .background {
-    background-image: url("Assets/card_bg.jpg");
+    background-image: url("assets/card_bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     width: 350px;
